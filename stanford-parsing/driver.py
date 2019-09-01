@@ -4,7 +4,7 @@ from argparse import Namespace
 
 def get_params():
     cfg = Namespace (
-       input_file='input/SICK_train.txt',
+       input_file='input_data/SICK_train.txt',
        output_dir="output",
        lib_dir="lib",
        stanford_basedir="/Users/jayanti/Software/nlp-tools/stanford/",
