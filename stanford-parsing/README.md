@@ -1,13 +1,14 @@
 # Tutorial for Stanford Dependency & Constituency Parsing 
 
-# You need the followng:
+# You need the following:
     > stanford-parser-full-2018-10-17/stanford-parser.jar
 
     > stanford-postagger-full-2018-10-16/stanford-postagger.jar 
 
     > stanford-english-corenlp-2018-10-05-models.jar 
 
-    > These packages can be downloaded from https://stanfordnlp.github.io/CoreNLP/
+    > These packages can be downloaded from https://stanfordnlp.github.io/CoreNLP/.
+         
 
 # What it is ?
 
@@ -19,13 +20,17 @@
  
    > The program (driver.py) can be easily modified to parse any text (english)
 
+   > The original Java programs provided with treelstm have some issues and so
+     I have modified those.   
+
+
 # Acknowledgment 
 
    > This work is motivated from https://github.com/dasguptar/treelstm.pytorch 
 
-   > For indepth knowledge you must spend hours and hours https://stanfordnlp.github.io/CoreNLP/
+   > For in depth knowledge you must spend hours and hours on : https://stanfordnlp.github.io/CoreNLP/
 
-# Comments & Feedabck 
+# Comments & Feedback 
 
    > You can write to me (prasad.jayanti@gmail.com) for any feedback. 
 
